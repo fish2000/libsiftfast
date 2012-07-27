@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsiftfast.a  CMakeFiles/libsiftfast-static.dir/libsiftfast.o
+/usr/bin/ranlib libsiftfast.a

@@ -1,0 +1,8 @@
+/usr/local/lib/python2.7/site-packages/siftfastpy.dylib
+/usr/local/include/siftfast/siftfast.h
+/usr/local/bin/siftfast
+/usr/local/lib/libsiftfast.dylib
+/usr/local/share/siftfast/examples/test0.jpg
+/usr/local/share/siftfast/examples/test1.jpg
+/usr/local/share/siftfast/examples/test2.jpg
+/usr/local/share/siftfast/examples/testsiftfast.py

@@ -1,0 +1,5 @@
+/Users/fish/Documents/__presort__/libsiftfast-1.2-src/CMakeFiles/libsiftfast.dir
+/Users/fish/Documents/__presort__/libsiftfast-1.2-src/CMakeFiles/libsiftfast-static.dir
+/Users/fish/Documents/__presort__/libsiftfast-1.2-src/CMakeFiles/siftfast.dir
+/Users/fish/Documents/__presort__/libsiftfast-1.2-src/CMakeFiles/siftfastpy.dir
+/Users/fish/Documents/__presort__/libsiftfast-1.2-src/CMakeFiles/uninstall.dir
