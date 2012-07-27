@@ -1,1 +1,0 @@
-/usr/bin/clang++   -shared   -o siftfastpy.dylib -install_name /Users/fish/Documents/__presort__/libsiftfast-1.2-src/siftfastpy.dylib CMakeFiles/siftfastpy.dir/siftfastpy.o CMakeFiles/siftfastpy.dir/libsiftfast.o -L/usr/local/lib -lstdc++ /usr/local/lib/libpython2.7.dylib /usr/local/lib/libboost_python-mt.dylib 

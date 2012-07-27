@@ -1,1 +1,0 @@
-/usr/bin/clang++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/siftfast.dir/libsiftfast.o CMakeFiles/siftfast.dir/siftfast.o  -o siftfast  -L/Users/fish/Documents/__presort__/libsiftfast-1.2-src libsiftfast.dylib -lm -lstdc++ -ldl -lpython2.7 

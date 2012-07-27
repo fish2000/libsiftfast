@@ -6,8 +6,10 @@
 *~
 \#*\#
 
+*.a
 *.o
 *.so
+*.dylib
 
 *.dmg
 *.jar
@@ -21,3 +23,8 @@
 .dropbox
 
 Icon*
+install_manifest.txt
+CMakeCache.txt
+CMakeFiles/
+siftfast
+
