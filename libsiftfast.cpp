@@ -876,7 +876,7 @@ void ConvVerticalFast(Image image, float* kernel, int ksize) {
     }
 }
 
-/*#endif*/
+#endif
 
 Keypoint FindMaxMin(Image* imdiff, Image* imgaus, float fscale, Keypoint keypts) {
     DVSTARTPROFILE();
