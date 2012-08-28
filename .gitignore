@@ -27,4 +27,7 @@ install_manifest.txt
 CMakeCache.txt
 CMakeFiles/
 siftfast
+Makefile
+cmake_install.cmake
+cmake_uninstall.cmake
 
